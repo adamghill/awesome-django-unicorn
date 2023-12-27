@@ -1,6 +1,14 @@
-# Awesome list for [Unicorn](https://www.django-unicorn.com)
+<p align="center">
+  <a href="https://www.django-unicorn.com/"><img src="https://github.com/adamghill/django-unicorn/raw/a98539b6e4b1123705559116a77e63eea7e2b8d0/img/unicorn-logo.png" alt="django-unicorn logo" height="200"/></a>
+</p>
 
-`Unicorn` is magical reactive component framework for Django. ✨
+<h1 align="center">
+  <p><code>Unicorn</code> is a magical reactive component framework for Django. ✨</p>
+</h1>
+
+![PyPI](https://img.shields.io/pypi/v/django-unicorn?color=blue&style=flat-square)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/django-unicorn?color=blue&style=flat-square)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/adamghill?color=blue&style=flat-square)
 
 - 📖 [Documentation](https://www.django-unicorn.com)
 - ⚙️ [Code](https://github.com/adamghill/django-unicorn)
@@ -16,3 +24,7 @@
 ### [IAmPython](https://www.youtube.com/@IamPython)
 
 - [A Magical Full-stack Framework for Django](https://www.youtube.com/watch?v=UlFcUXxYSto)
+
+## Components
+
+Create a new component by using the GitHub repo template: https://github.com/adamghill/django-unicorn-component.
