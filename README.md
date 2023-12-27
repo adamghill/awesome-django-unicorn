@@ -1,4 +1,10 @@
-# Awesome django-unicorn
+# Awesome list for [Unicorn](https://www.django-unicorn.com)
+
+`Unicorn` is magical reactive component framework for Django. ✨
+
+- 📖 [Documentation](https://www.django-unicorn.com)
+- ⚙️ [Code](https://github.com/adamghill/django-unicorn)
+- 💙 [Sponsor](https://github.com/sponsors/adamghill)
 
 ## Screencasts
 
