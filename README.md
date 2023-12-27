@@ -28,3 +28,7 @@
 ## Components
 
 Create a new component by using the GitHub repo template: https://github.com/adamghill/django-unicorn-component.
+
+## Projects using Django Unicorn
+
+- [Sideways Data - Motorsports Registration & Timing][https://sidewaysdata.com]
