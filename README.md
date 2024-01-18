@@ -32,5 +32,6 @@ Create a new component by using the GitHub repo template: https://github.com/ada
 ## Projects using Django Unicorn
 
 - [Sideways Data - Motorsports Registration & Timing](https://sidewaysdata.com)
+- [HorseRecords](https://www.horserecords.info)
 - [devmarks.io - Bookmarking for Developers](https://devmarks.io)
 - [python-utils - Python Utils](https://adamghill.com/python-utils)
